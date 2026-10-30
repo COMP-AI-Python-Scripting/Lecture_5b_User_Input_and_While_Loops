@@ -1,1 +1,2 @@
-# 5b_User_Input_and_While_Loops
+# Lecture 5b - User Input and While Loops
+
